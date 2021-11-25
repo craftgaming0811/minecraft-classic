@@ -1,8 +1,10 @@
-# minecraft-classic
-Just a copy of https://classic.minecraft.net/ (or at least as much as I could).
+Just copied from some guy.
 
-This is a working copy of the Minecraft Classic website version. If you want to run the web version on your own site, just copy the files into it's own folder at the root of your server, or host, and then navigate to yourwebsite.com/minecraft-classic directory (or where ever you put it).
+https://craftgaming0811.github.io/minecraft-classic/
 
-My biggest reason for even doing this was so that I can modify the textures and sounds of the classic version just for fun, but I'm sure others could have a good use for it. There are however some quirks to changing some assets for the game, so be sure to take a look at the ASSETS_NOTE.md for further information.
+ok?
 
-NOTE: If you decide to use a different name/directory for the minecraft-classic files, be sure to update the style.css, index.html, browserconfig.xml, and site.webmanifest with the changes too.
+![image](https://user-images.githubusercontent.com/73025683/143503693-c78fb835-88fd-4069-b71b-47e7d1c55bfd.png)
+![image](https://user-images.githubusercontent.com/73025683/143503717-d3de83e7-b064-4a5e-b4b4-954303f7fcb9.png)
+![image](https://user-images.githubusercontent.com/73025683/143503762-bfe7fcc5-7e7a-44b2-9c9f-369e74343ce1.png)
+![image](https://user-images.githubusercontent.com/73025683/143503775-15f796cb-2608-44ab-abe4-c4f6e9af9f46.png)
